@@ -1,0 +1,8 @@
+Debug/
+Release/
+mfcVectorGraphics/Debug/
+mfcVectorGraphics/x64/
+x64/
+
+mfcVectorGraphics.VC
+mfcVectorGraphics/mfcVectorGraphics.aps
